@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:yds_core_flutter/yz_design_system.dart';
+
+import '../yz_design_system.dart';
 
 class YZPlaceholderRectangle extends StatelessWidget {
   YZPlaceholderRectangle({

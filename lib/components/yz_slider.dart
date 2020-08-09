@@ -2,8 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'dart:math';
 
-import 'package:yds_core_flutter/yz_design_system.dart';
-
 class RoundSliderTrackShape extends SliderTrackShape {
   /// Create a slider track that draws 2 rectangles.
   const RoundSliderTrackShape({this.disabledThumbGapWidth = 2.0});
